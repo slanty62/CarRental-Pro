@@ -1,0 +1,47 @@
+## Visual Studio
+.vs/
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## ReSharper
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+
+## Файлы проекта
+*.vcxproj.user
+*.vcxproj.filters
+
+## Пакеты NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Временные файлы
+*.tmp
+*.temp
+*.cache
+*~
+*.swp
+*.swo
+
+## Файлы данных
+*.mdf
+*.ldf
+*.sdf
+
+## Логи
+*.log
+logs/
