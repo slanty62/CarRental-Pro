@@ -69,14 +69,14 @@ CarRental Pro - консольное приложение для управле�
 ### Установка(💻Использование💻)
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/slanty62/CarRental-Pro.git
+git clone https://github.com/slanty62/CarRental-Pro
 cd CarRental-Pro
 
 # 2. Восстановите зависимости
 dotnet restore
 
 # 3. Запустите приложение
-dotnet run --project CarRental.App
+dotnet run --project rental-car.csproj
 
 ## 💻Использование💻
 
