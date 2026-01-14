@@ -54,6 +54,17 @@ CarRental Pro - консольное приложение для управле�
 
 Учебный проект. Свободно для использования с указанием авторства.
 
+<img width="740" height="680" alt="image" src="https://github.com/user-attachments/assets/fde32930-070e-4f90-9df2-41183e2b4b42" />
+<img width="488" height="628" alt="image" src="https://github.com/user-attachments/assets/7f4baedf-2918-437d-89cd-b2655f27ccbf" />
+<img width="516" height="998" alt="image" src="https://github.com/user-attachments/assets/eb9e28a2-e649-42b4-9c0c-91967d1ab132" />
+<img width="726" height="668" alt="image" src="https://github.com/user-attachments/assets/a108c18b-1851-41b3-8dc8-7c02a8ead49d" />
+
+
+
+
+
+
+
 
 ### Установка
 ```bash
