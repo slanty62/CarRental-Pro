@@ -30,7 +30,8 @@
 - JSON для хранения данных
 - Консольный интерфейс
 
-<img width="638" height="440" alt="image" src="https://github.com/user-attachments/assets/c0d4329a-20ff-4730-be94-a01626f20a87" />
+<img width="737" height="519" alt="image" src="https://github.com/user-attachments/assets/8ee88a10-bf0f-49b3-93ff-45ca820c1c98" />
+
 
 
 
